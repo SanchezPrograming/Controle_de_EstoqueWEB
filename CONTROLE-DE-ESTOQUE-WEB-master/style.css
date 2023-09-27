@@ -1,0 +1,69 @@
+/* Estilo para o cabeçalho */
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(0, 95, 139); /* Cor do texto */
+    padding: 20px 0; /* Espaçamento interno */
+    background-color: rgb(240, 255, 244);
+}
+
+/* Estilo para os campos de entrada */
+#wrap input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    padding: 10px; /* Espaçamento interno */
+    margin-bottom: 10px; /* Espaçamento inferior */
+}
+
+/* Estilo para os contêineres principais */
+#botoes, #saida, #wrap {
+    margin-top: 20px; /* Espaçamento superior */
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Cantos arredondados */
+    padding: 20px; /* Espaçamento interno */
+    background-color: rgb(240, 255, 244);
+}
+
+/* Estilo para os botões */
+button {
+    width: 30%;
+    height: 40px;
+    background-color: rgb(0, 95, 139);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; /* Cursor de mão ao passar o mouse */
+    margin: 5px; /* Espaçamento entre os botões */
+}
+
+button:hover {
+    background-color: yellow;
+    color: black;
+}
+
+/* Estilo para a tabela */
+table {
+    border: 1px solid black;
+    border-collapse: collapse; /* Bordas da tabela colapsadas */
+    border-radius: 10px;
+    background-color: rgb(240, 255, 244);
+    color: rgb(0, 95, 139); /* Cor do texto */
+    width: 100%;
+    margin-top: 20px; /* Espaçamento superior */
+}
+
+/* Estilo para as células da tabela */
+td, th {
+    border: 1px solid white;
+    padding: 10px; /* Espaçamento interno */
+    text-align: center;
+}
+
+/* Estilo para cabeçalho da tabela */
+th {
+    background-color: rgb(0, 95, 139);
+    color: white;
+}
