@@ -10,3 +10,5 @@ oferecendo funcionalidades básicas para adicionar, visualizar, atualizar e excl
  - Visualizar Estoque: Exibe uma lista dos produtos presentes no estoque, mostrando detalhes como nome, quantidade disponível e preço.
 
  - Atualizar Produtos: Permite aos usuários editar as informações de produtos existentes, como quantidade disponível, preço, etc.
+   
+ - Excluir Produtos: Dá aos usuários a opção de remover produtos do estoque.
